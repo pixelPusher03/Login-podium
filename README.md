@@ -51,6 +51,6 @@
   
  ~ ❯❯❯ chmod +x login.sh 
   
- ~ ❯❯❯ ./loginpod.sh 
+ ~ ❯❯❯ ./login.sh 
  ``` 
   
