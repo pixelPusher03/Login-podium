@@ -46,11 +46,14 @@
  ### Installing 
  ``` 
  ~ ❯❯❯ git clone https://github.com/pixelPusher03/Login-Podium.git 
-  
+  ```
+```
  ~ ❯❯❯ cd Login-Podium
-  
+  ```
+```
  ~ ❯❯❯ chmod +x login.sh 
-  
+  ```
+```
  ~ ❯❯❯ ./login.sh 
  ``` 
   
